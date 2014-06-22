@@ -12,7 +12,7 @@
 
 ##Steps:
 	(1) Download the data from source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and put into a folder on local drive. 
-	(2) Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
-	(3) Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
+	(2) Save run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function.
+	(3) Run source("run_analysis.R"), to complete analysis and to develop a new tidy dataset that will generate a new file called tiny_data.txt in your working directory.
 
 
