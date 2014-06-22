@@ -11,7 +11,7 @@
 	(5) Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ##Steps:
-	(1) Download the data from source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and put into a folder on local drive. 
+	(1) Download the data from source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and put into a folder on local drive. See http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones for a description of the data.
 	(2) Save run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function.
 	(3) Run source("run_analysis.R"), to complete analysis and to develop a new tidy dataset that will generate a new file called tiny_data.txt in your working directory.
 
